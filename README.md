@@ -1,4 +1,4 @@
-# e-ify-32-a64
+# e-ify-64
 e-ify for arm 64 bit devices
 
 Steps to use:
